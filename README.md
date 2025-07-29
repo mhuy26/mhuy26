@@ -18,43 +18,55 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <!-- Existing tools -->
+
+  <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/>
   </a>
-  
+
+  <!-- C++ -->
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="80" height="80"/>
   </a>
-  
+
+ <!-- Java -->
  <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="80" height="80"/>
   </a>
-  
+
+  <!-- Docker -->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://labs.flinters.vn/wp-content/uploads/2021/07/docker-logo.png" alt="docker" width="280" height="280"/>
   </a>
- 
+
+  <!-- Pandas -->
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="80" height="80"/>
   </a>
-  
+
+  <!-- Pytorch -->
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="80" height="80"/>
   </a>
+
+  <!-- Scikit-learn -->
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="130" height="130"/>
   </a>
+
+  <!-- Seaborn -->
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="80" height="80"/>
   </a>
+
+  <!-- TensorFlow -->
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="70" height="70"/>
   </a>
 
-  <!-- LangChain -->
-  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
-    <img src="https://python.langchain.com/img/brand/wordmark-dark.png" alt="langchain" width="330" height="330"/>
+  <!-- Postgres -->
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="80" height="80"/>
   </a>
 
   <!-- Qdrant -->
@@ -62,9 +74,12 @@
     <img src="https://qdrant.tech/img/qdrant-logo.svg"alt="qdrant" width="220" height="220"/>
   </a>
 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="80" height="80"/>
+  <!-- LangChain -->
+  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
+    <img src="https://python.langchain.com/img/brand/wordmark-dark.png" alt="langchain" width="320" height="320"/>
   </a>
+
+
 </p>
 
 
