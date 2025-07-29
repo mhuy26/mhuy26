@@ -7,6 +7,8 @@
 
 - 👀 I'm interrested in **Big Data, Programming, Machine Learning and Artificial Intelligence**
 
+- ✍️ I'm working on **News RAG Chatbot**
+
 - 📫 How to reach me **mhuyngdang@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
