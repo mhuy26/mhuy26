@@ -7,7 +7,7 @@
 
 - 👀 I'm interrested in **Big Data, Programming, Machine Learning and Artificial Intelligence**
 
-- ✍️ I'm working on **News RAG Chatbot**
+- ✍️ I'm working on **VNExpress-RAG-Chatbot**
 
 - 📫 How to reach me **mhuyngdang@gmail.com**
 
